@@ -1,1 +1,1 @@
-Kindly see READNE.md file in each folder to run the code.
+Kindly see README.md file in each folder to run the code.
